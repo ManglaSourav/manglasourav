@@ -6,7 +6,7 @@ Hi 👋, I'm Sourav. I am currently working at [zfunds](https://www.linkedin.com
 <!--
 ### 📫 Reach out!
 -->
-### Connect
+### Reach out
 - **Email:** mangla.sourav96@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/souravmangla
 
