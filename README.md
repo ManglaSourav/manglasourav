@@ -1,28 +1,23 @@
 
 
-# Sourav Mangla
-Hi 👋, I'm Sourav. I am currently working at [zfunds](https://www.linkedin.com/company/zfunds/)(Mutual Fund Firm) as a Software developer using tech stack ReactJs, NodeJs and AWS. 
+## Hey <img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Hi.gif" width="29px">, I'm [Sourav!](https://manglasourav.github.io)  
 
-<!--
-### 📫 Reach out!
--->
-### Reach out
-- **Email:** mangla.sourav96@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/souravmangla
+### About Me 🚀
+💻  I am working at [zfunds](https://www.linkedin.com/company/zfunds/)(Mutual Fund Firm) as a Software Engineer using tech stack ReactJs, NodeJs and AWS. </br>
+👨‍ I am passionate about Backend Engineering & I enjoy learning new things. </br>
 
 
-<!--
-### Hi there 
-**ManglaSourav/manglasourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=manglasourav&show_icons=true&hide_border=true)
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Connect with me<img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Handshake.gif" height="32px">
+
+|[<img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/souravmangla)|[<img src="https://github.com/manglasourav/manglasourav/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/ManglaSourav) | [<img src="https://github.com/manglasourav/manglasourav/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/)|[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/manglasourav) |[<img src="https://github.com/manglasourav/manglasourav/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mangla.sourav96@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|
+
+
+<br>
+<br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=manglasourav)
