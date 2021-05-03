@@ -13,8 +13,8 @@
 
 # Connect with me<img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Handshake.gif" height="32px">
 
-|[<img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/souravmangla)|[<img src="https://github.com/manglasourav/manglasourav/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/ManglaSourav) | [<img src="https://github.com/manglasourav/manglasourav/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/)|[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/manglasourav) |[<img src="https://github.com/manglasourav/manglasourav/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mangla.sourav96@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|
+|[<img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/souravmangla)|[<img src="https://github.com/manglasourav/manglasourav/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/ManglaSourav) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/manglasourav) |[<img src="https://github.com/manglasourav/manglasourav/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mangla.sourav96@gmail.com)
+|:---:|:---:|:---:|:---:|
 
 
 <br>
