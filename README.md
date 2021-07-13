@@ -8,7 +8,7 @@
 
 
 <!-- ![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=manglasourav&show_icons=true&hide_border=true) -->
-<br />
+<!-- <br /> -->
 
 
 # Connect with me<img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Handshake.gif" height="32px">
@@ -17,7 +17,7 @@
 |:---:|:---:|:---:|:---:|
 
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=manglasourav) -->
