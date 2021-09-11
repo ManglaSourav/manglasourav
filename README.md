@@ -3,7 +3,8 @@
 ## Hey <img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Hi.gif" width="29px">, I'm [Sourav!](https://manglasourav.github.io)  
 
 ### About Me 🚀
-💻  I am working at [zfunds](https://www.linkedin.com/company/zfunds/)(Mutual Fund Firm) as a Software Engineer using tech stack ReactJs, NodeJs and AWS. </br>
+<!-- 💻  I am working at [zfunds](https://www.linkedin.com/company/zfunds/)(Mutual Fund Firm) as a Software Engineer using tech stack ReactJs, NodeJs and AWS. </br> --> 
+💻  I am a graduate student at [University of Arizona](https://www.arizona.edu/).  
 👨‍ I am passionate about Backend Engineering & I enjoy learning new things. </br>
 
 
