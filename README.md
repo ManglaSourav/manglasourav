@@ -5,7 +5,7 @@
 ### About Me 
 <!-- 🚀 -->
 <!-- 💻  I am working at [zfunds](https://www.linkedin.com/company/zfunds/)(Mutual Fund Firm) as a Software Engineer using tech stack ReactJs, NodeJs and AWS. </br> --> 
-💻  I have graduated from [University of Arizona](https://www.arizona.edu/).  
+💻 <!-- I have graduated from [University of Arizona](https://www.arizona.edu/).  --> 
 👨‍ I am passionate about Software Engineering & I enjoy learning new things. </br>
 
 
