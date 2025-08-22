@@ -6,7 +6,7 @@
 <!-- 🚀 -->
 <!-- 💻  I am working at [zfunds](https://www.linkedin.com/company/zfunds/)(Mutual Fund Firm) as a Software Engineer using tech stack ReactJs, NodeJs, and AWS. </br> --> 
 💻 I have graduated from [University of Arizona](https://www.arizona.edu/).  
-👨‍ I am passionate about  Data and DevOps & I enjoy learning new things. </br>
+👨‍ I am passionate about  software engineering & I enjoy learning new things. </br>
 
 | <a href="https://github-readme-stats.vercel.app/api?username=manglasourav&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manglasourav&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sourav's github stats" ></img></a> | <a href="https://github.com/manglasourav/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manglasourav&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
