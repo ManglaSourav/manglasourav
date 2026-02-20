@@ -1,30 +1,53 @@
 
-<!-- <img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Hi.gif" width="29px">,  --> 
-### Hey, I'm Sourav
----
-### About Me 
-<!-- 🚀 -->
-<!-- 💻  I am working at [zfunds](https://www.linkedin.com/company/zfunds/)(Mutual Fund Firm) as a Software Engineer using tech stack ReactJs, NodeJs, and AWS. </br> --> 
-💻 I have graduated from [University of Arizona](https://www.arizona.edu/).  
-👨‍ I am passionate about  software engineering & I enjoy learning new things. </br>
+  
+  
+  <div align="center">
 
-| <a href="https://github-readme-stats.vercel.app/api?username=manglasourav&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manglasourav&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sourav's github stats" ></img></a> | <a href="https://github.com/manglasourav/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manglasourav&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+  # Sourav Mangla
 
+  **Software Engineer · AI/ML Enthusiast · Builder**
 
-<!-- ![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=manglasourav&show_icons=true&hide_border=true) -->
-<!-- <br /> -->
+   [![Website](https://img.shields.io/badge/www.souravmangla.com-blue?style=flat-square)](https://souravmangla.com)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/souravmangla)
+   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:souravmangla.work@gmail.com)
+   
+  </div>
 
 
-# Connect with me<img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Handshake.gif" height="32px">
+  ### About Me
 
-|[<img src="https://github.com/ManglaSourav/manglasourav/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/souravmangla)|[<img src="https://github.com/manglasourav/manglasourav/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/ManglaSourav) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/manglasourav) |[<img src="https://github.com/manglasourav/manglasourav/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:souravmangla96@gmail.com)
-|:---:|:---:|:---:|:---:|
+  ```text
+---/ |  ___  _   _ _ __ __ ___   __ |  /  | __ _ _ __   __ | | __ _
+  _ \ / _ | | | | '/  \ \ / / | |\/| |/ _ | ' \ /  | |/ _ |
+   _) | () | |_| | | | (| |\ V /  | |  | | (| | | | | (| | | (| |
+  |/ _/ _,||  _,| _/   ||  ||_,|| ||_, ||_,|
+                                                            |__/
 
+  > Software engineer who loves turning complex problems into simple solutions.
+  > Interested in Software Development, Data Engineering, and AI/ML.
+  > I believe in writing code that's easy to delete.
 
-<!-- <br>
-<br> -->
+  Current Focus
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=manglasourav)
+  ┌──────────┬───────────────────────────────────────────────────┐
+  │   Area   │                  What I'm Doing                   │
+  ├──────────┼───────────────────────────────────────────────────┤
+  │ AI/ML    │ Exploring LLM applications in developer workflows │
+  ├──────────┼───────────────────────────────────────────────────┤
+  │ Data     │ Building data pipelines and analytics tools       │
+  ├──────────┼───────────────────────────────────────────────────┤
+  │ Software │ Scalable test automation & infrastructure         │
+  └──────────┴───────────────────────────────────────────────────┘
+   ```
 
+<!-- put below thing above current focus -->
+<!--
+  Skills
 
+  Languages:    Swift ● Python ● JavaScript ● TypeScript ● Objective-C
+  Platforms:    iOS ● macOS ● visionOS ● Linux
+  AI/ML:        TensorFlow ● PyTorch ● scikit-learn ● CoreML
+  Data:         SQL ● Pandas ● Spark ● ETL Pipelines
+  Tools:        Xcode ● Git ● Docker ● CI/CD ● REST APIs
+-->
+ 
