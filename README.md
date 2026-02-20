@@ -28,7 +28,6 @@
   > I believe in writing code that's easy to delete.
 
   Current Focus
-
   ┌──────────┬───────────────────────────────────────────────────┐
   │   Area   │                  What I'm Doing                   │
   ├──────────┼───────────────────────────────────────────────────┤
